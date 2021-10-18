@@ -6,9 +6,8 @@ Befor reviewing sample code, it is essitional to read research report (**Researc
 
 There are 4 python files which are used to achieve 3 objective of this research. Following is detail of each python file and objective:
 
-**Objective 1: Build a machine learning model that can predict whether the patient has meet with an selected criteria or not - Criteria Prediction.ipynb
+**Objective 1: Build a machine learning model that can predict whether the patient has meet with an selected criteria or not - Criteria Prediction.ipynb**
 
-**Objective 2: Build a machine learning model that can visualize cohorts based on patients - (Date Extraction Function.ipynb and Cohort Visualisation Based on Patients.ipnb)
+**Objective 2: Build a machine learning model that can visualize cohorts based on patients - (Date Extraction Function.ipynb and Cohort Visualisation Based on Patients.ipnb)**
 
 **Objective 3: Provide an example of Impact Analysis and identify that if it can be used in Smart Cohort or not? - (Impact Analysis Example.ipynb)**
-****
